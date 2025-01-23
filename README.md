@@ -42,3 +42,13 @@
   </a>
 </p>
 
+<div align="center">
+  <h3><b>📍 Contador de Visitantes</b></h3>
+</div>
+
+<p align="center">
+  <img
+    src="https://profile-counter.glitch.me/GladsonAmeno/count.svg"
+    alt="Número de visitantes no perfil"
+  />
+</p>
