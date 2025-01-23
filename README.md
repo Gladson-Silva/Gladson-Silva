@@ -34,7 +34,7 @@
   <a href="#" title="Gmail">
   <img src="https://img.shields.io/badge/-Gmail-FF0000?style=flat-square&labelColor=FF0000&logo=gmail&logoColor=white&link=[gladsonameno@gmail.com]" alt="Gmail"/></a>
   <a href="#" title="LinkedIn">
-  <img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=flat-square&logo=Linkedin&logoColor=white&link=[https://www.linkedin.com/in/gladson-silva/]" alt="LinkedIn"/></a>
+  <img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=flat-square&logo=Linkedin&logoColor=white&https://www.linkedin.com/in/gladson-silva/" alt="LinkedIn"/></a>
   <a href="#" title="WhatsApp">
   <img src="https://img.shields.io/badge/-WhatsApp-25d366?style=flat-square&labelColor=25d366&logo=whatsapp&logoColor=white&link=[https://wa.me/5531991232877?text=Ol%C3%A1!%20Vim%20pelo%20GitHub]" alt="WhatsApp"/></a>
 </p>
