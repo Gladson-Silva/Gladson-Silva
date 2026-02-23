@@ -12,9 +12,9 @@
 
 <p align="left">
   <h3>🛡️ Certificações em Destaque:</h3>
-  - <b>Fortinet Certified Fundamentals (FCF)</b> [Introduction to Threat Landscape & Technical Introduction to Cybersecurity]
-  - <b>Python aplicado à TI (Data Science Foundations)</b> - Focado em análise de segurança.
-  - <b>English for IT</b> (Em andamento)
+  - <b>Fortinet Certified Fundamentals (FCF)</b> [Introduction to Threat Landscape & Technical Introduction to Cybersecurity] <br>
+  - <b>Python aplicado à TI (Data Science Foundations)</b> - Focado em análise de segurança.<br>
+  - <b>English for IT</b> (Em andamento)<br>
 </p>
 
 <p align="left">
