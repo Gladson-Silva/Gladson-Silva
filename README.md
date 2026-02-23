@@ -1,65 +1,42 @@
-<img src="https://github.com/GladsonAmeno/GladsonAmeno/blob/main/bancodedados.png" alt="ilustração de um computador" min-width="400px" max-width="400px" width="400px" align="right">
+<img src="https://github.com/GladsonAmeno/GladsonAmeno/blob/main/bancodedados.png" alt="Cybersecurity illustration" min-width="400px" max-width="400px" width="400px" align="right">
 
 <p align="left">
-    <h3>📍 Apresentação</h3>
-  Olá, meu nome é Gladson e sou graduando em Ciência da Computação, atualmente no 7º período.<br>
-  Estou me especializando na área de dados, com foco em Ciência de Dados e Inteligência Artificial.<br>
-  No momento, estou desenvolvendo projetos pessoais para aprimorar meu portfólio e me aprofundar em análise<br>
-  e visualização de dados.
+  <h3>📍 Gladson Silva | Cybersecurity & Infrastructure</h3>
+  Analista de TI Pleno com foco em Segurança Ofensiva, Defensiva e Automação. <br>
+  Graduando em Ciência da Computação (8º período) e especialista em Gestão de Identidades e Infraestrutura Crítica.
 </p>
 
 <p align="left">
+  <strong>🎯 Objetivo:</strong> Atuar na proteção de ativos digitais, utilizando análise de dados para detecção de ameaças e automação de processos de segurança.
+</p>
+
+<p align="left">
+  <h3>🛡️ Certificações em Destaque:</h3>
+  - <b>Fortinet Certified Fundamentals (FCF)</b> [Introduction to Threat Landscape & Technical Introduction to Cybersecurity]
+  - <b>Python aplicado à TI (Data Science Foundations)</b> - Focado em análise de segurança.
+  - <b>English for IT</b> (Em andamento)
+</p>
+
+<p align="left">
+  <h3>💻 Tech Stack & Segurança:</h3>
   
-  <h3>💻 Linguagens:</h3>
-  
-![Python](https://img.shields.io/badge/-Python-0D1117?style=for-the-badge&logo=python&logoColor=FFFFFF&logoSize=auto&labelColor=0D1117)
-![SQLite](https://img.shields.io/badge/-SQLite-0D1117?style=for-the-badge&logo=sqlite&logoColor=FFFFFF&logoSize=auto&labelColor=0D1117)
-![MYsql](https://img.shields.io/badge/-mysql-0D1117?style=for-the-badge&logo=mysql&logoColor=FFFFFF&logoSize=auto&labelColor=0D1117)
-![postgresql](https://img.shields.io/badge/-postgresql-0D1117?style=for-the-badge&logo=postgresql&logoColor=FFFFFF&logoSize=auto&labelColor=0D1117)
-
+  ![Python](https://img.shields.io/badge/-Python_para_Automação-0D1117?style=for-the-badge&logo=python&logoColor=FFFFFF)
+  ![Linux](https://img.shields.io/badge/-Linux_Admin-0D1117?style=for-the-badge&logo=linux&logoColor=FFFFFF)
+  ![Firewall](https://img.shields.io/badge/-pfSense_%26_MikroTik-0D1117?style=for-the-badge&logo=fortinet&logoColor=FFFFFF)
+  ![Azure](https://img.shields.io/badge/-Azure_AD_%26_Identity-0D1117?style=for-the-badge&logo=microsoftazure&logoColor=FFFFFF)
 </p>
 
 <p align="left">
-   <h3>💼 Ferramentas:</h3>
-  
-![Pandas](https://img.shields.io/badge/-Pandas-0D1117?style=for-the-badge&logo=foodpanda&logoColor=FFFFFF&logoSize=auto&labelColor=0D1117)
-![numpy](https://img.shields.io/badge/-numpy-0D1117?style=for-the-badge&logo=numpy&logoColor=FFFFFF&logoSize=auto&labelColor=0D1117)
-![Matplotlib](https://img.shields.io/badge/-Matplotlib-0D1117?style=for-the-badge&logo=python&logoColor=FFFFFF&logoSize=auto&labelColor=0D1117)
-![Seaborn](https://img.shields.io/badge/-Seaborn-0D1117?style=for-the-badge&logo=python&logoColor=FFFFFF&logoSize=auto&labelColor=0D1117)
-![jupyter ](https://img.shields.io/badge/-jupyter%20notebook-0D1117?style=for-the-badge&logo=jupyter&logoColor=FFFFFF&logoSize=auto&labelColor=0D1117)
-![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-0D1117?style=for-the-badge&logoColor=FFFFFF&logoSize=auto&labelColor=0D1117)
-![excel](https://img.shields.io/badge/-excel-0D1117?style=for-the-badge&logo=excel&logoColor=FFFFFF&logoSize=auto&labelColor=0D1117)
-
+  <h3>🚀 Projetos em Destaque:</h3>
+  <ul>
+    <li><b>Análise de Logs e Incidentes:</b> Utilização de Python e bibliotecas de dados (Pandas/Seaborn) para identificação de padrões de falhas e potenciais ameaças em redes corporativas.</li>
+    <li><b>Automação de Gestão de Ativos:</b> Scripts para inventário e monitoramento de infraestrutura crítica.</li>
+    <li><b>Segurança de Perímetro:</b> Configuração e monitoramento de Firewalls e VPNs para ambientes de missão crítica.</li>
+  </ul>
 </p>
 
 <p align="left">
-   <h3>📚 Estudando no Momento:</h3>
-
-  ![R](https://img.shields.io/badge/-Linguagem%20r-0D1117?style=for-the-badge&logo=r&logoColor=FFFFFF&logoSize=auto&labelColor=0D1117)
-  ![scala](https://img.shields.io/badge/-scala-0D1117?style=for-the-badge&logo=scala&logoColor=FFFFFF&logoSize=auto&labelColor=0D1117)
-  ![c](https://img.shields.io/badge/-Linguagem%20C-0D1117?style=for-the-badge&logo=c&logoColor=FFFFFF&logoSize=auto&labelColor=0D1117)
-  ![c++](https://img.shields.io/badge/-Linguagem%20c%2B%2B-0D1117?style=for-the-badge&logo=cplusplus&logoColor=FFFFFF&logoSize=auto&labelColor=0D1117)
-
-
-</p>
-
-<div align="center">  
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=Gladson-Silva&show_icons=true&count_private=true&hide_border=true&title_color=FFFFFF&icon_color=FFFFFF&text_color=FFFFFF&bg_color=0d1117" alt="Gladson Silva" /> 
-  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gladson-Silva&layout=compact&hide_border=true&title_color=FFFFFF&text_color=FFFFFF&bg_color=0d1117" />
-</div>
-
-<p align="left">
-  <h3>💌 Entre em contato comigo: ⤵️</h3>
-</p>
-
-<p align="left">
-  <a href="mailto:gladsonameno@gmail.com" title="Gmail">
-    <img src="https://img.shields.io/badge/-gmail-0D1117?style=for-the-badge&logo=gmail&logoColor=FFFFFF&logoSize=auto&labelColor=0D1117" alt="Gmail"/>
-  </a>
-  <a href="https://www.linkedin.com/in/gladson-silva/" title="LinkedIn">
-    <img src="https://img.shields.io/badge/-linkedin-0D1117?style=for-the-badge&logoColor=FFFFFF&logoSize=auto&labelColor=0D1117" alt="LinkedIn"/>
-  </a>
-  <a href="https://wa.me/5531991232877?text=Ol%C3%A1!%20Vim%20pelo%20GitHub" title="WhatsApp">
-    <img src="https://img.shields.io/badge/-whatsapp-0D1117?style=for-the-badge&logo=whatsapp&logoColor=FFFFFF&logoSize=auto&labelColor=0D1117" alt="WhatsApp"/>
-  </a>
+  <h3>💌 Conecte-se comigo:</h3>
+  <a href="mailto:gladsonameno@gmail.com"><img src="https://img.shields.io/badge/-gmail-0D1117?style=for-the-badge&logo=gmail" /></a>
+  <a href="https://www.linkedin.com/in/gladson-silva/"><img src="https://img.shields.io/badge/-linkedin-0D1117?style=for-the-badge&logo=linkedin" /></a>
 </p>
