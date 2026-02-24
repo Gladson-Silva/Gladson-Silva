@@ -15,6 +15,7 @@
   - <b>Fortinet Certified Fundamentals (FCF)</b> [Introduction to Threat Landscape & Technical Introduction to Cybersecurity] <br>
   - <b>Python aplicado à TI (Data Science Foundations)</b> - Focado em análise de segurança.<br>
   - <b>English for IT</b> (Em andamento)<br>
+  - <b>Curso Hacker do Bem - Nivelamento e Básico (Formação em Cibersegurança)</b><br>
 </p>
 
 <p align="left">
