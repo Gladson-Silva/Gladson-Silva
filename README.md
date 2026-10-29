@@ -1,4 +1,4 @@
-<img src="https://github.com/GladsonAmeno/GladsonAmeno/blob/main/bancodedados.png" alt="Desenvolvimento Web illustration" min-width="400px" max-width="400px" width="400px" align="right">
+<img src="https://github.com/GladsonAmeno/GladsonAmeno/blob/main/dev.png" alt="Desenvolvimento Web illustration" min-width="400px" max-width="400px" width="400px" align="right">
 
 <p align="left">
   <h3>📍 Gladson Ameno | De Infraestrutura a Desenvolvedor Frontend</h3>
